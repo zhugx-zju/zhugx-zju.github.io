@@ -37,7 +37,6 @@ nav .header-github { color: var(--accent); font-weight: 700; }
 .hero { background: var(--dark); border-bottom: 1px solid var(--line); padding-block: clamp(3.8rem, 8vw, 7.4rem); }
 .intro { max-width: 59rem; }
 .hero h1 { font-size: clamp(3.5rem, 9vw, 7rem); line-height: .9; margin-block: 1.1rem .75rem; }
-.local-name { color: var(--accent); font-size: 1.35rem; letter-spacing: .16em; }
 .intro-text { max-width: 37rem; margin-top: 1.35rem; color: var(--muted); font-size: clamp(1.02rem, 1.7vw, 1.16rem); }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; margin-top: 1.7rem; }
 .button { background: var(--accent); color: var(--dark); text-decoration: none; font-weight: 650; padding: .65rem 1rem; border-radius: .25rem; }
